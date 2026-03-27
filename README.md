@@ -86,4 +86,5 @@ CatBoost
 Matplotlib
 
 Seaborn
-Jupyter Notebookion,
+
+Jupyter Notebook 
